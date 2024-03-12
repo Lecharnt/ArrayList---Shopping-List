@@ -7,7 +7,7 @@ public class Main extends JFrame {
     final int FRAME_WIDTH = 400;
     final int FRAME_HEIGHT = 400;
     public Main() {
-        // Adds the total title sets the width and the height
+        // Adds the total, title, and sets the width and the height
         setTitle("BigY Store");
         setSize(FRAME_WIDTH, FRAME_HEIGHT);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
